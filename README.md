@@ -10,6 +10,7 @@ This RESTful API runs **Flask** server , uses **SQLALCHEMY** as DataBase Toolkit
 SWAGGER UI for API Documentation
 
 **Further Scope**:
+
     Creating Docker images
     
     Set CI CD pipelines
