@@ -16,3 +16,9 @@ SWAGGER UI for API Documentation
     Set CI CD pipelines
     
     Deploying to web
+
+
+# Libraries
+
+pip install -r requirements.txt
+
