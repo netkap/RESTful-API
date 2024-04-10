@@ -21,7 +21,14 @@ In your folder there will be a new file db.sqlite
 
 ![image](https://github.com/netkap/RESTful-API/assets/100796046/580b93c2-4344-48e4-8f94-aba314becaef)
 
+# Docker
+for Docker users run:
+    docker pull netkap/tr2
+    docker run -dp 0.0.0.0:5000:5000 netkap/tr2
+    (for some port 5000 is busy just change the first port to somehting else  ex- docker run -dp 0.0.0.0:5005:5000 netkap/tr2)
 
+    
+    
 
 
 
@@ -39,8 +46,6 @@ SWAGGER UI for API Documentation
 **Further Scope**:
 
     Adding authentication
-
-    Creating Docker images
     
     Set CI CD pipelines
     
