@@ -21,7 +21,7 @@ In your folder there will be a new file db.sqlite
 
 ![image](https://github.com/netkap/RESTful-API/assets/100796046/580b93c2-4344-48e4-8f94-aba314becaef)
 
-# Docker (option for those who couldn't follow above instructions)
+# Docker (for those who don't wanna run locally )
 for Docker users run:
 
     docker pull netkap/tr2
